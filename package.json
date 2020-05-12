@@ -16,7 +16,7 @@
     "polyfill",
     "polyfill for :placeholder-shown",
   ],
-  "author": "Thomas Schroeter",
+  "author": "Thomas Schroeter <mail@tschroeter.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tschroeter/placeholder-shown-polyfill/issues"
