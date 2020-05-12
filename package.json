@@ -1,6 +1,7 @@
 {
-  "name": "placeholder-shown-polyfill",
-  "version": "1.0",
+  "name": "@tschroeter_com/placeholder-shown-polyfill",
+  "version": "1.0.0",
+  "private": false,
   "description": "Polyfill if CSS pseudo selector :placeholder-shown is not available",
   "main": "placeholder-shown-polyfill.js",
   "scripts": {
@@ -12,9 +13,9 @@
   },
   "keywords": [
     "placeholder-shown",
-    ":placeholder-shown"
+    ":placeholder-shown",
     "polyfill",
-    "polyfill for :placeholder-shown",
+    "polyfill for :placeholder-shown"
   ],
   "author": "Thomas Schroeter <mail@tschroeter.com>",
   "license": "MIT",
