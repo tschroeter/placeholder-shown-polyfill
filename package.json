@@ -1,0 +1,25 @@
+{
+  "name": "placeholder-shown-polyfill",
+  "version": "1.0",
+  "description": "Polyfill if CSS pseudo selector :placeholder-shown is not available",
+  "main": "placeholder-shown-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschroeter/placeholder-shown-polyfill.git"
+  },
+  "keywords": [
+    "placeholder-shown",
+    ":placeholder-shown"
+    "polyfill",
+    "polyfill for :placeholder-shown",
+  ],
+  "author": "Thomas Schroeter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschroeter/placeholder-shown-polyfill/issues"
+  },
+  "homepage": "https://github.com/tschroeter/placeholder-shown-polyfill#readme"
+}
