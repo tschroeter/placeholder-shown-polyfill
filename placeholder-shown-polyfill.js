@@ -7,7 +7,7 @@
 
   function install ()
   {
-    dom.body.parentElement.classList.add('polyfill', 'placeolder-shown');
+    dom.body.parentElement.classList.add('polyfill', 'placeholder-shown');
     dom.querySelectorAll('[placeholder]').forEach(function (el) {
       if (el.getAttribute('placeholder') != "") update_placeholder(el);
       dom.addEventListener('change', function () {update_placeholder(el)});
